@@ -11,6 +11,8 @@ h1{
     border-style: solid;
     border-width: 2px 2px 5px 2px;
     background-color: beige;
+    border-radius: 30px;
+    margin: 25px auto 0px auto;
 }
 
 #title_paragraph{
@@ -19,4 +21,18 @@ h1{
     border-style: solid;
     border-width: 2px 2px 5px 2px;
     background-color: beige;
+    border-radius: 30px;
+    width: 50%;
+    margin: 15px auto 10px auto;
+}
+
+#buttons{
+    text-align: center;
+    margin: auto;
+    border-style:solid;
+    border-width: 1px 2px 7px 2px;
+    background-color:beige;
+    border-radius: 30px;
+    padding: 7px;
+    width: 25%;
 }
