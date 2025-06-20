@@ -21,9 +21,9 @@ const frogGeoTxt = [
     ,"Northern Vietnam"
 ]
 const frogFact = [
-    "They are mostly active during the day. One of the largest poison dart frogs being about 2 inches. They eat insects like ants, spiders, termites, and crickets. Each frog has a unique pattern so you wont find any other frog that look alike."
-    ,"Horn Frog"
-    ,"Moss Frog"
+    "The Yellow Banded Poison Dart frog is mostly active during the day. One of the largest poison dart frogs being about 2 inches. They eat insects like ants, spiders, termites, and crickets. Each frog has a unique pattern so you wont find any other frog that look alike."
+    ,"The Horn frog will ambush their prey by burrying themselves in leaves. Some can grow up to 8 inches long. As tadpools, they are very aggresive and at times will get cannibalistic. A lot of people commonly get them as exotic pets."
+    ,"The Moss frog live near bodies of water and moist areas. They will play dead and use their camoflauge to avoid predators. They can grow up to 3.5 inches. Mossy frogs are also nocturnal meaning that they are active at night. They are very hard to locate because of their vocal chords. Their voice sounds as if it were coming from somewhere else."
 ]
 let frogSlide = 0;
 
